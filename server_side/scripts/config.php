@@ -3,8 +3,8 @@
 return (object) array(
     'dbHost' => 'localhost',
     'dbName' => 'vanguard',
-    'dbUser' => 'root',
-    'dbPass' => 'root',
+    'dbUser' => 'vanguard',
+    'dbPass' => 'vanguard',
     'dbPort' => '3306',
     'dbCharset' => 'utf8mb4',
     'dbEngine' => 'InnoDB'
